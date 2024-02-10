@@ -1,12 +1,11 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/abstract-transformation-information-processing-sorting-data-2147041399)(https://manishdodiya01.io)]
 <h1 align="center">Hi 👋, I'm Manish Dodiya</h1>
 <h3 align="center">Unveiling the Future with Data Science</h3>
-<img align='right' alt='Coding' width='400' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowc3oxZmY4Zms0YWp1eHloem4yY2pwaTRrMHFodGNwbTJiZjl1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"
+<img align='right' alt='Coding' width='400' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB6amp2a3Vta3ZtbXl0ejdoejFrbzJ2OWxwbDFxYWRudnRmbDRnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdodiya01&label=Profile%20views&color=0e75b6&style=flat" alt="manishdodiya01" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
-
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/Manishdodiya01?tab=repositories](https://github.com/Manishdodiya01?tab=repositories)
 
 - 📫 How to reach me **dodiyamanish400@gmail.com**
