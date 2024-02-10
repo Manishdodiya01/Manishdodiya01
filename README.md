@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdodiya01&label=Profile%20views&color=0e75b6&style=flat" alt="manishdodiya01" /> </p>
 
 - 🌱 I’m currently learning **Data Science**
-- 
+
 - 👨‍💻 All of my projects are available at [https://github.com/Manishdodiya01?tab=repositories](https://github.com/Manishdodiya01?tab=repositories)
 
 - 📫 How to reach me **dodiyamanish400@gmail.com**
