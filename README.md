@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manish Dodiya</h1>
 <h3 align="center">Unveiling the Future with Data Science</h3>
-<img align='right' alt='Coding' width='400' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB6amp2a3Vta3ZtbXl0ejdoejFrbzJ2OWxwbDFxYWRudnRmbDRnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif'
+<img align='right' alt='Coding' width='500' src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODB6amp2a3Vta3ZtbXl0ejdoejFrbzJ2OWxwbDFxYWRudnRmbDRnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdodiya01&label=Profile%20views&color=0e75b6&style=flat" alt="manishdodiya01" /> </p>
 
