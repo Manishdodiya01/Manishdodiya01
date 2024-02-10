@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F588181932%2Fe36ec678-7984-4cdd-8e4c-a3932772ff8e&tbnid=kfpqCuXmfeFi9M&vet=12ahUKEwigkNWjiqCEAxVUS2wGHZl9B1UQMygCegQIARBe..i&imgrefurl=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&docid=hqmA8T4OFW0sOM&w=1600&h=700&q=banner%20for%20coding%20gif&ved=2ahUKEwigkNWjiqCEAxVUS2wGHZl9B1UQMygCegQIARBe)(https://manishdodiya01.io)
+[![MasterHead](https://images.app.goo.gl/y6emBg25WwnexTE67)]
 <h1 align="center">Hi 👋, I'm Manish Dodiya</h1>
 <h3 align="center">Unveiling the Future with Data Science</h3>
 <img align='right' alt='Coding' width='400' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowc3oxZmY4Zms0YWp1eHloem4yY2pwaTRrMHFodGNwbTJiZjl1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"
