@@ -1,7 +1,7 @@
-[![MasterHead](https://giphy.com/gifs/animation-ryan-seslow-3osxYc2axjCJNsCXyE)](https://manishdodiya01.io)
+[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2FpMHYzOWJwOHJlamduYjNhZGFhNnhoMHNkdGVrdXh2cmpwM3N1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif)
 <h1 align="center">Hi 👋, I'm Manish Dodiya</h1>
 <h3 align="center">Unveiling the Future with Data Science</h3>
-<img align='right' alt='Coding' width='400' src="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm"
+<img align='right' alt='Coding' width='400' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGowc3oxZmY4Zms0YWp1eHloem4yY2pwaTRrMHFodGNwbTJiZjl1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishdodiya01&label=Profile%20views&color=0e75b6&style=flat" alt="manishdodiya01" /> </p>
 
